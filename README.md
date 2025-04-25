@@ -1,4 +1,4 @@
-# Vedic Birth-Chart CLI
+# Vedic Birth-Chart
 
 A simple command-line tool that:
 
