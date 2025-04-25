@@ -30,6 +30,26 @@ A simple command-line tool that:
 
 ---
 
+### Chart Wheel
+
+![Birth Chart Wheel](output.png)
+
+### Planetary Positions
+
+| Planet  | Sign         | Degrees  |
+| ------- | ------------ | -------- |
+| Sun     | Aquarius     | 10°17′   |
+| Moon    | Aquarius     | 06°23′   |
+| Mars    | Leo          | 27°39′   |
+| Mercury | Aquarius     | 19°17′   |
+| Jupiter | Sagittarius  | 10°07′   |
+| Venus   | Sagittarius  | 24°14′   |
+| Saturn  | Pisces       | 10°55′   |
+| Rahu    | Scorpio      | 10°12′   |
+| Ketu    | Taurus       | 10°12′   |
+
+---
+
 ## 🔧 Installation
 
 1. **Clone** this repo:  
