@@ -50,7 +50,7 @@ A simple command-line tool that:
 
 ---
 
-### TinyLlama Predictions & Remedies
+### TinyLlama Predictions & Remedies example
 
 **Monthly Prediction:**
 1. **Career:** The next 12 months will bring opportunities for new job opportunities and promotions. However, it is advisable to be careful about taking on high-profile roles or risky assignments that may not align with one's values.  
